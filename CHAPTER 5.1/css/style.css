@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.title {
+    color: #FEFEFE;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    font-weight: normal;
+}
+.font {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    border-width: thin;
+    border-style: dotted;
+    /* [disabled]background-color: #FFFDFD; */
+    color: #FFFFFF;
+}
+.background {
+    background-color: #0027AA;
+}
